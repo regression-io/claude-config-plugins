@@ -1,0 +1,14 @@
+{
+  "name": "fastapi-support",
+  "description": "FastAPI REST API framework guidance - includes Python best practices and API patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "regression-io",
+    "email": "ruze@regression.io"
+  },
+  "homepage": "https://github.com/regression-io/claude-config-plugins",
+  "keywords": [
+    "claude-config",
+    "fastapi support"
+  ]
+}

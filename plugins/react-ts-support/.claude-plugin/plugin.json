@@ -1,0 +1,14 @@
+{
+  "name": "react-ts-support",
+  "description": "React with TypeScript framework guidance - type-safe components, hooks, and best practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "regression-io",
+    "email": "ruze@regression.io"
+  },
+  "homepage": "https://github.com/regression-io/claude-config-plugins",
+  "keywords": [
+    "claude-config",
+    "react ts support"
+  ]
+}

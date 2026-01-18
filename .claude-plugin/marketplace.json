@@ -1,0 +1,143 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-config-plugins",
+  "description": "Framework support, language tools, and coding standards as Claude Code plugins. Converted from claude-config templates for always-on guidance.",
+  "owner": {
+    "name": "regression-io",
+    "email": "ruze@regression.io"
+  },
+  "plugins": [
+    {
+      "name": "coding-standards",
+      "description": "Universal best practices for all projects - code quality, testing, documentation, security, error handling, API design, and git workflow",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/coding-standards",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "python-support",
+      "description": "Python language best practices - style guides, dependency management, and common patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/python-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "javascript-support",
+      "description": "JavaScript language best practices - style guides and common patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/javascript-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "typescript-support",
+      "description": "TypeScript language best practices - configuration, style guides, and type patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/typescript-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "fastapi-support",
+      "description": "FastAPI REST API framework guidance - includes Python best practices and API patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/fastapi-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "react-js-support",
+      "description": "React with JavaScript framework guidance - components, hooks, and best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/react-js-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "react-ts-support",
+      "description": "React with TypeScript framework guidance - type-safe components, hooks, and best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/react-ts-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "python-cli-support",
+      "description": "Python CLI application guidance - argument parsing, user interaction, and CLI patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/python-cli-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "mcp-python-support",
+      "description": "MCP Server development in Python - protocol implementation and best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/mcp-python-support",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "fullstack-fastapi-react",
+      "description": "Full-stack monorepo guidance for FastAPI backend + React JavaScript frontend projects",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/fullstack-fastapi-react",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "fullstack-fastapi-react-ts",
+      "description": "Full-stack monorepo guidance for FastAPI backend + React TypeScript frontend projects",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/fullstack-fastapi-react-ts",
+      "category": "development",
+      "homepage": "https://github.com/regression-io/claude-config-plugins"
+    }
+  ]
+}

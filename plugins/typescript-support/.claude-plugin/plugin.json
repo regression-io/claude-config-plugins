@@ -1,0 +1,14 @@
+{
+  "name": "typescript-support",
+  "description": "TypeScript language best practices - configuration, style guides, and type patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "regression-io",
+    "email": "ruze@regression.io"
+  },
+  "homepage": "https://github.com/regression-io/claude-config-plugins",
+  "keywords": [
+    "claude-config",
+    "typescript support"
+  ]
+}

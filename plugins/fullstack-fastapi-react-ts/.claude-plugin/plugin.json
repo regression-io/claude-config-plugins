@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-fastapi-react-ts",
+  "description": "Full-stack monorepo guidance for FastAPI backend + React TypeScript frontend projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "regression-io",
+    "email": "ruze@regression.io"
+  },
+  "homepage": "https://github.com/regression-io/claude-config-plugins",
+  "keywords": [
+    "claude-config",
+    "fullstack fastapi react ts"
+  ]
+}
