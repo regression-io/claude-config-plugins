@@ -138,6 +138,18 @@
       "source": "./plugins/fullstack-fastapi-react-ts",
       "category": "development",
       "homepage": "https://github.com/regression-io/claude-config-plugins"
+    },
+    {
+      "name": "coder-config",
+      "description": "Session context management - /flush to save context, /update-docs to sync documentation, /refactor to modularize large files",
+      "version": "1.0.0",
+      "author": {
+        "name": "regression-io",
+        "email": "ruze@regression.io"
+      },
+      "source": "./plugins/coder-config",
+      "category": "productivity",
+      "homepage": "https://github.com/regression-io/coder-config"
     }
   ]
 }
